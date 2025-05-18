@@ -15,7 +15,6 @@ Make sure you have **Git** and **Python 3.7+** installed on your computer. Then 
 git clone https://github.com/username/async-flooder.git
 cd async-flooder
 
----
 
 ## How to Install Dependencies
 
