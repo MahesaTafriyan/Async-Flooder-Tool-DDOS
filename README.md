@@ -14,20 +14,22 @@ Make sure you have **Git** and **Python 3.7+** installed on your computer. Then 
 ```bash
 git clone https://github.com/username/async-flooder.git
 cd async-flooder
-
+```
 
 ## How to Install Dependencies
 
 Install required Python packages using pip:
 
-'''bash
+```bash
 pip install aiohttp
+```
 
 ## How to Run
 Run the script with Python:
 
-'''bash
+```bash
 python ddos.py
+```
 
 Then follow the prompts in the terminal:
 
